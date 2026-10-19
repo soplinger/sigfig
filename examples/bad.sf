@@ -1,0 +1,8 @@
+# Deliberately broken worksheet for demonstrating line-numbered errors
+width = 3.20 +- 0.04
+height = 1.5 +- -0.02
+area = width * hieght
+depth = 2.0 ** 0.5
+mass = 9.9 +- 0.1
+mass = 8.0
+volume = width * 0

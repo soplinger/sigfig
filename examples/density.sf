@@ -1,0 +1,7 @@
+# Density of a rock sample, measured with a balance and a graduated cylinder
+mass = 12.34 +- 0.02
+volume = 4.00 +- 0.05
+
+# Derived values: uncertainties propagate automatically
+density = mass / volume
+column = density * 2.5
